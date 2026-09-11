@@ -61,37 +61,52 @@
 
 ### Featured Projects
 
-#### [LogMind](https://github.com/khadijaalmasry/LogMind)
-> AI-powered cybersecurity log analysis and incident response platform
+<p align="center">
+  <a href="https://github.com/khadijaalmasry/LogMind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadijaalmasry&repo=LogMind&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/khadijaalmasry/CraftGo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadijaalmasry&repo=CraftGo&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+</p>
 
-An end-to-end security operations tool built with **React 19** and a **Laravel 12 REST API**, integrating **Generative AI** (Ollama & Groq) for automated threat detection, anomaly classification, and mitigation reporting. Designed to assist security analysts in rapidly triaging and responding to incidents at scale.
+<p align="center">
+  <code>React</code> &nbsp;<code>Laravel</code> &nbsp;<code>JavaScript</code> &nbsp;<code>Ollama</code> &nbsp;<code>Groq</code> &nbsp;<code>REST API</code>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code>Flutter</code> &nbsp;<code>Dart</code> &nbsp;<code>Mobile</code> &nbsp;<code>Web</code> &nbsp;<code>AI</code>
+</p>
 
-`React` `Laravel` `PHP` `JavaScript` `Ollama` `Groq` `REST API` `MIT License`
+<br/>
+
+<p align="center">
+  <a href="https://github.com/khadijaalmasry/HospitalClinic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadijaalmasry&repo=HospitalClinic&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/khadijaalmasry/Task-MGMT-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadijaalmasry&repo=Task-MGMT-System&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+</p>
+
+<p align="center">
+  <code>Java</code> &nbsp;<code>Desktop App</code> &nbsp;<code>MySQL</code> &nbsp;<code>Healthcare</code>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code>JavaScript</code> &nbsp;<code>Node.js</code> &nbsp;<code>Full-Stack</code> &nbsp;<code>Collaboration</code>
+</p>
 
 ---
 
-#### [CraftGo](https://github.com/khadijaalmasry/CraftGo)
-> AI-assisted artisan marketplace — mobile & web
+### GitHub Stats
 
-A cross-platform application built with **Flutter** that connects independent artisans and handicraft creators with customers. Customers can request custom handmade items, discover local exhibitions, and purchase unique goods. Bridges traditional craftsmanship with AI to provide personalized discovery and recommendation features.
-
-`Flutter` `Dart` `Mobile` `Web` `AI` `Cross-Platform`
-
----
-
-#### [HospitalClinic](https://github.com/khadijaalmasry/HospitalClinic)
-> Healthcare administration desktop application
-
-A desktop application for healthcare facilities developed from real-world field research and requirement gathering conducted at an operating hospital. Covers patient management, diagnostic ordering, role-based access control, and automated PDF reporting — reflecting realistic clinical workflows and relational database structures.
-
-`Java` `Desktop App` `MySQL` `Healthcare` `Role-Based Access`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khadijaalmasry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khadija's GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijaalmasry&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-#### [Task-MGMT-System](https://github.com/khadijaalmasry/Task-MGMT-System)
-> Web-based task and project management system
-
-A full-stack web application that facilitates the organization, tracking, and management of tasks and projects. Designed to support collaboration between students and administrators, featuring role separation, task assignment, status tracking, and project dashboards.
-
-`JavaScript` `Node.js` `Web App` `Full-Stack` `Collaboration`
-
+<p align="center">
+  <i>Open to internship and entry-level opportunities in software engineering and full-stack development.</i>
+</p>
