@@ -1,4 +1,4 @@
-<!-- ===== WAVING HEADER — SMALLER NAME + GREETING ===== -->
+<!-- ===== WAVING HEADER ===== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b8793&height=200&section=header&text=Khadija&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Welcome%20%E2%80%94%20glad%20you%20stopped%20by&descAlignY=58&descSize=17" width="100%" />
 </div>
@@ -6,6 +6,10 @@
 <!-- ===== ROTATING TYPING TEXT ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=0b8793&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+Flutter+%7C+Node.js;Computer+Engineering+Student+%40+ANNU;Digital+Artist+on+the+side;Building+things+that+live+on+the+internet" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>Hello — welcome to my work. Take a look around.</i>
 </p>
 
 <!-- ===== PROFILE VIEWS + FOLLOW ===== -->
@@ -168,17 +172,8 @@
 
 <h2 align="center">GitHub Analytics</h2>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khadijaalmasry&hide_border=true&background=0d1117&ring=0b8793&fire=0b8793&currStreakLabel=0b8793&sideLabels=360033&dates=c9d1d9&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadijaalmasry&bg_color=0d1117&color=0b8793&line=0b8793&point=ffffff&area=true&hide_border=true&radius=12" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khadijaalmasry&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://streak-stats.demolab.com?user=khadijaalmasry&hide_border=false&background=0d1117&stroke=0b8793&ring=0b8793&fire=0b8793&currStreakNum=ffffff&currStreakLabel=0b8793&sideNums=ffffff&sideLabels=0b8793&dates=c9d1d9&border_radius=12" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=360033&height=3" width="100%" />
