@@ -1,6 +1,6 @@
 <!-- ===== WAVING HEADER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b8793&height=200&section=header&text=Hello, I'm Khadija!&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36AlignY=58&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b8793&height=200&section=header&text=Hello,+I'm+Khadija!&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36AlignY=58&descSize=17" width="100%" />
 </div>
 
 <!-- ===== ROTATING TYPING TEXT ===== -->
