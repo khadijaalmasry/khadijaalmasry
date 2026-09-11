@@ -1,27 +1,28 @@
 <h1 align="center">Hi ☺, I'm Khadija</h1>
 
 <h3 align="center">
-  Computer Engineering Student · Full-Stack Developer · Digital Artist
+  Computer Engineering Student &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Digital Artist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Node.js+%7C+React+%7C+Flutter;Computer+Engineering+Student;Digital+Artist+on+the+side" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+Flutter+%7C+Node.js;AI+%26+Cybersecurity+Enthusiast;Computer+Engineering+Student+%40+ANNU;Digital+Artist+on+the+side" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🎓 Final-year **Computer Engineering** student, graduating December 2026
-- 💻 I build **full-stack web & mobile apps** with Node.js, React, Flutter, and Laravel
-- 🎨 I also do **digital art** — character design & illustration
-- 🌱 Currently exploring **game development** and clean backend architecture
-- 🗣️ Arabic (native) · English (professional)
-- 📫 Reach me at **[your email]**
+- Final-year **Computer Engineering** student at An-Najah National University, graduating December 2026
+- I build **full-stack web & mobile applications** using React, Laravel, Node.js, Flutter, and Java
+- Passionate about integrating **AI and generative models** into practical, real-world software
+- I also do **digital art** — character design & illustration on the side
+- Currently exploring **game development** and clean backend architecture
+- Arabic (native) · English (professional)
+- Reach me at **[your-email@example.com]**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -37,98 +38,75 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Mobile**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Backend & Databases**
+**Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools**
+**AI & Tools**
 
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Art & Design**
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🎓 <a href="[link]">Graduation Project</a></h4>
-      <p>Full-stack mobile + backend system.</p>
-      <p><b>Node.js · Flutter</b></p>
-    </td>
-    <td width="50%">
-      <h4>🌐 <a href="[link]">Advanced Web App</a></h4>
-      <p>Solo full-stack web application.</p>
-      <p><b>Node.js · React</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🛠️ <a href="[link]">Hardware + App Project</a></h4>
-      <p>Arduino device with Flutter control app.</p>
-      <p><b>Arduino C · Flutter · Firebase</b></p>
-    </td>
-    <td width="50%">
-      <h4>🗂️ <a href="[link]">Team Web Platform</a></h4>
-      <p>Group project — role: [your role].</p>
-      <p><b>Laravel · React</b></p>
-    </td>
-  </tr>
-</table>
+#### [LogMind](https://github.com/khadijaalmasry/LogMind)
+> AI-powered cybersecurity log analysis and incident response platform
+
+An end-to-end security operations tool built with **React 19** and a **Laravel 12 REST API**, integrating **Generative AI** (Ollama & Groq) for automated threat detection, anomaly classification, and mitigation reporting. Designed to assist security analysts in rapidly triaging and responding to incidents at scale.
+
+`React` `Laravel` `PHP` `JavaScript` `Ollama` `Groq` `REST API` `MIT License`
 
 ---
 
-### 📊 GitHub Stats
+#### [CraftGo](https://github.com/khadijaalmasry/CraftGo)
+> AI-assisted artisan marketplace — mobile & web
+
+A cross-platform application built with **Flutter** that connects independent artisans and handicraft creators with customers. Customers can request custom handmade items, discover local exhibitions, and purchase unique goods. Bridges traditional craftsmanship with AI to provide personalized discovery and recommendation features.
+
+`Flutter` `Dart` `Mobile` `Web` `AI` `Cross-Platform`
+
+---
+
+#### [HospitalClinic](https://github.com/khadijaalmasry/HospitalClinic)
+> Healthcare administration desktop application
+
+A desktop application for healthcare facilities developed from real-world field research and requirement gathering conducted at an operating hospital. Covers patient management, diagnostic ordering, role-based access control, and automated PDF reporting — reflecting realistic clinical workflows and relational database structures.
+
+`Java` `Desktop App` `MySQL` `Healthcare` `Role-Based Access`
+
+---
+
+#### [Task-MGMT-System](https://github.com/khadijaalmasry/Task-MGMT-System)
+> Web-based task and project management system
+
+A full-stack web application that facilitates the organization, tracking, and management of tasks and projects. Designed to support collaboration between students and administrators, featuring role separation, task assignment, status tracking, and project dashboards.
+
+`JavaScript` `Node.js` `Web App` `Full-Stack` `Collaboration`
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khadijaalmasry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khadija's GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijaalmasry&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
-### 🎨 Beyond Code
-
-I draw characters and slice-of-life illustrations.
-
 <p align="center">
-  <a href="[your ArtStation link]">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:[your email]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="[your LinkedIn]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by ✨</i>
+  <i>Open to internship and entry-level opportunities in software engineering and full-stack development.</i>
 </p>
