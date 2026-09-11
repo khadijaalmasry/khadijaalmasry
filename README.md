@@ -95,18 +95,3 @@ A full-stack web application that facilitates the organization, tracking, and ma
 
 `JavaScript` `Node.js` `Web App` `Full-Stack` `Collaboration`
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadijaalmasry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khadija's GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijaalmasry&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to internship and entry-level opportunities in software engineering and full-stack development.</i>
-</p>
