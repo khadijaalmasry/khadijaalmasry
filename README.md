@@ -1,6 +1,6 @@
 <!-- ===== WAVING HEADER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b8793&height=200&section=header&text=Khadija&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Welcome%20%E2%80%94%20glad%20you%20stopped%20by&descAlignY=58&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b8793&height=200&section=header&text=Khadija&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Welcome%20%E2%80%94%20glad%20you%20stopped%20by!&descAlignY=58&descSize=17" width="100%" />
 </div>
 
 <!-- ===== ROTATING TYPING TEXT ===== -->
@@ -38,7 +38,7 @@
     </td>
     <td width="50%" valign="top">
       <b>Currently working on</b><br/>
-      AI-integrated full-stack systems, security tooling, and cross-platform apps.
+      Completing my degree...
       <br/><br/>
       <b>Beyond code</b><br/>
       Digital art — character design and slice-of-life illustration.
@@ -181,10 +181,10 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:khakhkhekh@gmail.com">
     <img src="https://img.shields.io/badge/Email-0b8793?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="www.linkedin.com/in/khadija-almasry-7b474523a">
     <img src="https://img.shields.io/badge/LinkedIn-360033?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://YOUR-ARTSTATION">
