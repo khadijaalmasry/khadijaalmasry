@@ -159,7 +159,7 @@
       <br/><br/>
       Full-stack web app for task organization and team collaboration. Features role separation, task assignment, status tracking, and project dashboards for students and administrators.
       <br/><br/>
-      <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>Full-Stack</kbd> <kbd>Collaboration</kbd>
+      <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Full-Stack</kbd> <kbd>Collaboration</kbd>
       <br/><br/>
       <a href="https://github.com/khadijaalmasry/Task-MGMT-System">
         <img src="https://img.shields.io/badge/View_Repository-360033?style=flat-square&logo=github&logoColor=white" />
