@@ -184,7 +184,7 @@
   <a href="mailto:khakhkhekh@gmail.com">
     <img src="https://img.shields.io/badge/Email-0b8793?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/khadija-almasry-7b474523a">
+  <a href="https://www.linkedin.com/in/khadija-almasry-7b474523a">
     <img src="https://img.shields.io/badge/LinkedIn-360033?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://YOUR-ARTSTATION">
