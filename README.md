@@ -5,7 +5,7 @@
 
 <!-- ===== ROTATING TYPING TEXT ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=0b8793&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Mobile+Projects;React+%7C+Laravel+%7C+Flutter+%7C+Node.js;Computer+Engineering+Student+%40+NNU;Digital+Artist+on+the+side;Building+things+that+live+on+the+internet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=0b8793&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%40+NNU;" alt="Typing SVG" />
 </p>
 
 <p align="center">
