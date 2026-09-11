@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+Flutter+%7C+Node.js;AI+%26+Cybersecurity+Enthusiast;Computer+Engineering+Student+%40+ANNU;Digital+Artist+on+the+side" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+Flutter+%7C+Node.js;Computer+Engineering+Student+%40+ANNU;Digital+Artist+on+the+side" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,11 +14,9 @@
 
 - 🎓 Final-year **Computer Engineering** student at An-Najah National University, graduating December 2026
 - 💻 I build **full-stack web & mobile applications** using React, Laravel, Node.js, Flutter, and Java
-- 🤖 Passionate about integrating **AI and generative models** into practical, real-world software
 - 🎨 I also do **digital art** — character design & illustration on the side
 - 🌱 Currently exploring **game development** and clean backend architecture
-- 🗣️ Arabic (native) · English (professional)
-- 📫 Reach me at **[your-email@example.com]**
+- 🗣️ Arabic · English · Ukrainian · Russian
 
 ---
 
@@ -48,6 +46,7 @@
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **AI & Tools**
@@ -61,76 +60,72 @@
 
 ### 🚀 Featured Projects
 
-<table width="100%">
+<table width="100%" cellpadding="16" cellspacing="8">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🔐 <a href="https://github.com/khadijaalmasry/LogMind">LogMind</a></h4>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <img src="https://img.shields.io/badge/🔐_LogMind-6C63FF?style=for-the-badge&logoColor=white" alt="LogMind"/>
+      <br/><br/>
       <p><em>AI-powered cybersecurity log analysis & incident response platform</em></p>
       <p>
-        End-to-end security operations tool with <strong>React 19</strong> + <strong>Laravel 12 REST API</strong>, integrating Generative AI (Ollama & Groq) for automated threat detection and mitigation reporting.
+        End-to-end security operations tool with <strong>React 19</strong> + <strong>Laravel 12 REST API</strong>,
+        integrating Generative AI (Ollama & Groq) for automated threat detection and mitigation reporting.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq"/>
+        <kbd>React</kbd> <kbd>Laravel</kbd> <kbd>JavaScript</kbd> <kbd>Ollama</kbd> <kbd>Groq</kbd> <kbd>REST API</kbd>
       </p>
-      <a href="https://github.com/khadijaalmasry/LogMind"><strong>View Repository →</strong></a>
+      <a href="https://github.com/khadijaalmasry/LogMind">
+        <img src="https://img.shields.io/badge/View_Repository-6C63FF?style=flat-square&logo=github&logoColor=white" alt="View LogMind"/>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h4>🎨 <a href="https://github.com/khadijaalmasry/CraftGo">CraftGo</a></h4>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <img src="https://img.shields.io/badge/🎨_CraftGo-F97316?style=for-the-badge&logoColor=white" alt="CraftGo"/>
+      <br/><br/>
       <p><em>AI-assisted artisan marketplace — mobile & web</em></p>
       <p>
-        Cross-platform app built with <strong>Flutter</strong> connecting artisans with customers. Enables custom handmade item requests, local exhibition discovery, and AI-powered personalization.
+        Cross-platform app built with <strong>Flutter</strong> connecting artisans with customers.
+        Enables custom handmade item requests, local exhibition discovery, and AI-powered personalization.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-        <img src="https://img.shields.io/badge/Mobile-02569B?style=flat-square&logo=android&logoColor=white" alt="Mobile"/>
-        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logoColor=white" alt="AI"/>
+        <kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>Mobile</kbd> <kbd>Web</kbd> <kbd>AI</kbd>
       </p>
-      <a href="https://github.com/khadijaalmasry/CraftGo"><strong>View Repository →</strong></a>
+      <a href="https://github.com/khadijaalmasry/CraftGo">
+        <img src="https://img.shields.io/badge/View_Repository-F97316?style=flat-square&logo=github&logoColor=white" alt="View CraftGo"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏥 <a href="https://github.com/khadijaalmasry/HospitalClinic">HospitalClinic</a></h4>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <img src="https://img.shields.io/badge/🏥_HospitalClinic-14B8A6?style=for-the-badge&logoColor=white" alt="HospitalClinic"/>
+      <br/><br/>
       <p><em>Healthcare administration desktop application</em></p>
       <p>
-        Desktop app developed from real field research at an operating hospital. Covers patient management, diagnostic ordering, role-based access control, and automated PDF reporting.
+        Desktop app developed from real field research at an operating hospital. Covers patient management,
+        diagnostic ordering, role-based access control, and automated PDF reporting.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Desktop_App-555555?style=flat-square&logoColor=white" alt="Desktop"/>
+        <kbd>Java</kbd> <kbd>MySQL</kbd> <kbd>Desktop App</kbd> <kbd>Role-Based Access</kbd>
       </p>
-      <a href="https://github.com/khadijaalmasry/HospitalClinic"><strong>View Repository →</strong></a>
+      <a href="https://github.com/khadijaalmasry/HospitalClinic">
+        <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=flat-square&logo=github&logoColor=white" alt="View HospitalClinic"/>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h4>✅ <a href="https://github.com/khadijaalmasry/Task-MGMT-System">Task-MGMT-System</a></h4>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <img src="https://img.shields.io/badge/✅_Task--MGMT--System-22C55E?style=for-the-badge&logoColor=white" alt="Task-MGMT-System"/>
+      <br/><br/>
       <p><em>Web-based task and project management system</em></p>
       <p>
-        Full-stack web app for task organization and team collaboration. Features role separation, task assignment, status tracking, and project dashboards for students and administrators.
+        Full-stack web app for task organization and team collaboration. Features role separation,
+        task assignment, status tracking, and project dashboards for students and administrators.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Full--Stack-6C63FF?style=flat-square&logoColor=white" alt="Full-Stack"/>
+        <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>Full-Stack</kbd> <kbd>Collaboration</kbd>
       </p>
-      <a href="https://github.com/khadijaalmasry/Task-MGMT-System"><strong>View Repository →</strong></a>
+      <a href="https://github.com/khadijaalmasry/Task-MGMT-System">
+        <img src="https://img.shields.io/badge/View_Repository-22C55E?style=flat-square&logo=github&logoColor=white" alt="View Task-MGMT-System"/>
+      </a>
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadijaalmasry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khadija's GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijaalmasry&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
