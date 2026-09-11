@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=0b8793&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+Flutter+%7C+Node.js;Computer+Engineering+Student+%40+ANNU;Digital+Artist+on+the+side;Building+things+that+live+on+the+internet" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <i>Hello — welcome to my work. Take a look around.</i>
-</p>
-
 <!-- ===== PROFILE VIEWS + FOLLOW ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khadijaalmasry&label=Profile%20Views&color=0b8793&style=for-the-badge" alt="Profile views" />
@@ -199,9 +195,6 @@
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-360033?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/khadijaalmasry">
-    <img src="https://img.shields.io/badge/GitHub-0b8793?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://YOUR-ARTSTATION">
     <img src="https://img.shields.io/badge/ArtStation-360033?style=for-the-badge&logo=artstation&logoColor=white" />
