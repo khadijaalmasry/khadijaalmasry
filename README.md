@@ -1,4 +1,4 @@
-<h1 align="center">Hi ☺, I'm Khadija</h1>
+<h1 align="center">Hi, I'm Khadija!!</h1>
 
 <h3 align="center">
   Computer Engineering Student &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Digital Artist
@@ -12,15 +12,15 @@
 
 ### About Me
 
-- 🎓 Final-year **Computer Engineering** student at An-Najah National University, graduating December 2026
-- 💻 I build **full-stack web & mobile applications** using React, Laravel, Node.js, Flutter, and Java
-- 🎨 I also do **digital art** — character design & illustration on the side
-- 🌱 Currently exploring **game development** and clean backend architecture
-- 🗣️ Arabic · English · Ukrainian · Russian
+- Final-year **Computer Engineering** student at An-Najah National University, graduating December 2026
+- I build **full-stack web & mobile applications** using React, Laravel, Node.js, Flutter, and Java
+- I also do **digital art** — character design & illustration on the side
+- Currently exploring **game development** and clean backend architecture
+- Languages: Arabic · English · Ukrainian · Russian
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -58,12 +58,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table width="100%" cellpadding="16" cellspacing="8">
   <tr>
     <td width="50%" valign="top" bgcolor="#0d1117">
-      <img src="https://img.shields.io/badge/🔐_LogMind-6C63FF?style=for-the-badge&logoColor=white" alt="LogMind"/>
+      <img src="https://img.shields.io/badge/_LogMind-6C63FF?style=for-the-badge&logoColor=white" alt="LogMind"/>
       <br/><br/>
       <p><em>AI-powered cybersecurity log analysis & incident response platform</em></p>
       <p>
@@ -78,7 +78,7 @@
       </a>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117">
-      <img src="https://img.shields.io/badge/🎨_CraftGo-F97316?style=for-the-badge&logoColor=white" alt="CraftGo"/>
+      <img src="https://img.shields.io/badge/_CraftGo-F97316?style=for-the-badge&logoColor=white" alt="CraftGo"/>
       <br/><br/>
       <p><em>AI-assisted artisan marketplace — mobile & web</em></p>
       <p>
@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" bgcolor="#0d1117">
-      <img src="https://img.shields.io/badge/🏥_HospitalClinic-14B8A6?style=for-the-badge&logoColor=white" alt="HospitalClinic"/>
+      <img src="https://img.shields.io/badge/_HospitalClinic-14B8A6?style=for-the-badge&logoColor=white" alt="HospitalClinic"/>
       <br/><br/>
       <p><em>Healthcare administration desktop application</em></p>
       <p>
@@ -110,7 +110,7 @@
       </a>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117">
-      <img src="https://img.shields.io/badge/✅_Task--MGMT--System-22C55E?style=for-the-badge&logoColor=white" alt="Task-MGMT-System"/>
+      <img src="https://img.shields.io/badge/_Task--MGMT--System-22C55E?style=for-the-badge&logoColor=white" alt="Task-MGMT-System"/>
       <br/><br/>
       <p><em>Web-based task and project management system</em></p>
       <p>
