@@ -168,10 +168,6 @@
 
 <h2 align="center">GitHub Analytics</h2>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khadijaalmasry&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0b8793&icon_color=0b8793&text_color=c9d1d9&border_radius=12" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijaalmasry&layout=compact&hide_border=true&bg_color=0d1117&title_color=0b8793&text_color=c9d1d9&langs_count=8&border_radius=12" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=khadijaalmasry&hide_border=true&background=0d1117&ring=0b8793&fire=0b8793&currStreakLabel=0b8793&sideLabels=360033&dates=c9d1d9&border_radius=12" />
