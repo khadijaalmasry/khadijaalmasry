@@ -1,134 +1,214 @@
-<h1 align="center">Hi, I'm Khadija!!</h1>
+<!-- ===== ANIMATED WAVING HEADER ===== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khadija&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Computer%20Engineering%20Student%20%C2%B7%20Digital%20Artist&descAlignY=60&descSize=18" width="100%" />
+</div>
 
-<h3 align="center">
-  Computer Engineering Student &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Digital Artist
-</h3>
-
+<!-- ===== ROTATING TYPING TEXT ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+Flutter+%7C+Node.js;Computer+Engineering+Student+%40+ANNU;Digital+Artist+on+the+side" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+Flutter+%7C+Node.js;Computer+Engineering+Student+%40+ANNU;Digital+Artist+on+the+side;Building+things+that+live+on+the+internet" alt="Typing SVG" />
 </p>
 
----
+<!-- ===== PROFILE VIEWS + FOLLOW ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khadijaalmasry&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/khadijaalmasry?tab=followers">
+    <img src="https://img.shields.io/github/followers/khadijaalmasry?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117" alt="Followers" />
+  </a>
+</p>
 
-### About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
 
-- Final-year **Computer Engineering** student at An-Najah National University, graduating December 2026
-- I build **full-stack web & mobile applications** using React, Laravel, Node.js, Flutter, and Java
-- I also do **digital art** — character design & illustration on the side
-- Currently exploring **game development** and clean backend architecture
-- Languages: Arabic · English · Ukrainian · Russian
+<h2 align="center">About Me</h2>
 
----
-
-### Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Mobile**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**AI & Tools**
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### Featured Projects
-
-<table width="100%" cellpadding="16" cellspacing="8">
+<table>
   <tr>
-    <td width="50%" valign="top" bgcolor="#0d1117">
-      <img src="https://img.shields.io/badge/_LogMind-6C63FF?style=for-the-badge&logoColor=white" alt="LogMind"/>
+    <td width="50%" valign="top">
+      <b>Who I am</b><br/>
+      Final-year Computer Engineering student at An-Najah National University, graduating December 2026.
       <br/><br/>
-      <p><em>AI-powered cybersecurity log analysis & incident response platform</em></p>
-      <p>
-        End-to-end security operations tool with <strong>React 19</strong> + <strong>Laravel 12 REST API</strong>,
-        integrating Generative AI (Ollama & Groq) for automated threat detection and mitigation reporting.
-      </p>
-      <p>
-        <kbd>React</kbd> <kbd>Laravel</kbd> <kbd>JavaScript</kbd> <kbd>Ollama</kbd> <kbd>Groq</kbd> <kbd>REST API</kbd>
-      </p>
+      <b>What I build</b><br/>
+      Full-stack web and mobile applications with React, Laravel, Node.js, Flutter, and Java.
+      <br/><br/>
+      <b>What I'm exploring</b><br/>
+      Game development and clean backend architecture.
+    </td>
+    <td width="50%" valign="top">
+      <b>Currently working on</b><br/>
+      AI-integrated full-stack systems, security tooling, and cross-platform apps.
+      <br/><br/>
+      <b>Beyond code</b><br/>
+      Digital art — character design and slice-of-life illustration.
+      <br/><br/>
+      <b>Languages</b><br/>
+      Arabic &middot; English &middot; Ukrainian &middot; Russian
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+
+<h2 align="center">Tech Stack</h2>
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+<h4 align="center">Backend &amp; Mobile</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<h4 align="center">AI, Tools &amp; Design</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+
+<h2 align="center">Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/khadijaalmasry/LogMind">
-        <img src="https://img.shields.io/badge/View_Repository-6C63FF?style=flat-square&logo=github&logoColor=white" alt="View LogMind"/>
+        <img src="https://img.shields.io/badge/LogMind-6C63FF?style=for-the-badge&logoColor=white" />
+      </a>
+      <br/><br/>
+      <b>AI-powered cybersecurity log analysis &amp; incident response platform</b>
+      <br/><br/>
+      End-to-end security operations tool with React 19 + Laravel 12 REST API, integrating Generative AI (Ollama &amp; Groq) for automated threat detection and mitigation reporting.
+      <br/><br/>
+      <kbd>React</kbd> <kbd>Laravel</kbd> <kbd>Ollama</kbd> <kbd>Groq</kbd> <kbd>REST API</kbd>
+      <br/><br/>
+      <a href="https://github.com/khadijaalmasry/LogMind">
+        <img src="https://img.shields.io/badge/View_Repository-6C63FF?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%" valign="top" bgcolor="#0d1117">
-      <img src="https://img.shields.io/badge/_CraftGo-F97316?style=for-the-badge&logoColor=white" alt="CraftGo"/>
-      <br/><br/>
-      <p><em>AI-assisted artisan marketplace — mobile & web</em></p>
-      <p>
-        Cross-platform app built with <strong>Flutter</strong> connecting artisans with customers.
-        Enables custom handmade item requests, local exhibition discovery, and AI-powered personalization.
-      </p>
-      <p>
-        <kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>Mobile</kbd> <kbd>Web</kbd> <kbd>AI</kbd>
-      </p>
+    <td width="50%" valign="top">
       <a href="https://github.com/khadijaalmasry/CraftGo">
-        <img src="https://img.shields.io/badge/View_Repository-F97316?style=flat-square&logo=github&logoColor=white" alt="View CraftGo"/>
+        <img src="https://img.shields.io/badge/CraftGo-F97316?style=for-the-badge&logoColor=white" />
+      </a>
+      <br/><br/>
+      <b>AI-assisted artisan marketplace — mobile &amp; web</b>
+      <br/><br/>
+      Cross-platform Flutter app connecting artisans with customers. Enables custom handmade item requests, local exhibition discovery, and AI-powered personalization.
+      <br/><br/>
+      <kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>Mobile</kbd> <kbd>Web</kbd> <kbd>AI</kbd>
+      <br/><br/>
+      <a href="https://github.com/khadijaalmasry/CraftGo">
+        <img src="https://img.shields.io/badge/View_Repository-F97316?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" bgcolor="#0d1117">
-      <img src="https://img.shields.io/badge/_HospitalClinic-14B8A6?style=for-the-badge&logoColor=white" alt="HospitalClinic"/>
-      <br/><br/>
-      <p><em>Healthcare administration desktop application</em></p>
-      <p>
-        Desktop app developed from real field research at an operating hospital. Covers patient management,
-        diagnostic ordering, role-based access control, and automated PDF reporting.
-      </p>
-      <p>
-        <kbd>Java</kbd> <kbd>MySQL</kbd> <kbd>Desktop App</kbd> <kbd>Role-Based Access</kbd>
-      </p>
+    <td width="50%" valign="top">
       <a href="https://github.com/khadijaalmasry/HospitalClinic">
-        <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=flat-square&logo=github&logoColor=white" alt="View HospitalClinic"/>
+        <img src="https://img.shields.io/badge/HospitalClinic-14B8A6?style=for-the-badge&logoColor=white" />
+      </a>
+      <br/><br/>
+      <b>Healthcare administration desktop application</b>
+      <br/><br/>
+      Desktop app built from real field research at an operating hospital. Covers patient management, diagnostic ordering, role-based access control, and automated PDF reporting.
+      <br/><br/>
+      <kbd>Java</kbd> <kbd>MySQL</kbd> <kbd>Desktop</kbd> <kbd>RBAC</kbd>
+      <br/><br/>
+      <a href="https://github.com/khadijaalmasry/HospitalClinic">
+        <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%" valign="top" bgcolor="#0d1117">
-      <img src="https://img.shields.io/badge/_Task--MGMT--System-22C55E?style=for-the-badge&logoColor=white" alt="Task-MGMT-System"/>
-      <br/><br/>
-      <p><em>Web-based task and project management system</em></p>
-      <p>
-        Full-stack web app for task organization and team collaboration. Features role separation,
-        task assignment, status tracking, and project dashboards for students and administrators.
-      </p>
-      <p>
-        <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>Full-Stack</kbd> <kbd>Collaboration</kbd>
-      </p>
+    <td width="50%" valign="top">
       <a href="https://github.com/khadijaalmasry/Task-MGMT-System">
-        <img src="https://img.shields.io/badge/View_Repository-22C55E?style=flat-square&logo=github&logoColor=white" alt="View Task-MGMT-System"/>
+        <img src="https://img.shields.io/badge/Task--MGMT--System-22C55E?style=for-the-badge&logoColor=white" />
+      </a>
+      <br/><br/>
+      <b>Web-based task and project management system</b>
+      <br/><br/>
+      Full-stack web app for task organization and team collaboration. Features role separation, task assignment, status tracking, and project dashboards for students and administrators.
+      <br/><br/>
+      <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>Full-Stack</kbd> <kbd>Collaboration</kbd>
+      <br/><br/>
+      <a href="https://github.com/khadijaalmasry/Task-MGMT-System">
+        <img src="https://img.shields.io/badge/View_Repository-22C55E?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khadijaalmasry&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_radius=12" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijaalmasry&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khadijaalmasry&theme=radical&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadijaalmasry&theme=react-dark&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true&radius=12" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khadijaalmasry&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/khadijaalmasry">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://YOUR-ARTSTATION">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <i>Open to internship and entry-level opportunities in software engineering and full-stack development.</i>
 </p>
+
+<!-- ===== ANIMATED WAVING FOOTER ===== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" />
+</div>
